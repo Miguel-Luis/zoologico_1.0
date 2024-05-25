@@ -1,4 +1,4 @@
-from zoologico import Zoologico
+from zoológico import Zoológico
 
 if __name__ == "__main__":
-    zoologico = Zoologico()
+    zoológico = Zoológico()
