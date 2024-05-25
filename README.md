@@ -48,8 +48,6 @@ El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de
 
 
 ### `zoologico_1.0/animales/`
-
-- **`__init__.py`**: Archivo de inicialización del paquete `materiales`.
 - **`animal.py`**: El objetivo de esta clase es proporcionar una estructura básica para representar un animal con algunos atributos esenciales como nombre, edad, y habitat, y permitir que esta información se pueda mostrar fácilmente.
 - **`mamifero.py`**: Clase que representa un mamifero.
 - **`ave.py`**: Clase que representa una ave.
