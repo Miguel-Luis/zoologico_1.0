@@ -26,8 +26,8 @@ El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de
 - Hacer clic en el botón **New branch**
 - En **Source** seleccionar la rama **develop**
 - Para el nombre de la rama tener en cuenta lo siguiente:
-    > [!WARNING]
-    > Todas los nombres de las ramas deben empezar por `feature/nombre_tipo_animal`.
+> [!WARNING]
+> Todas los nombres de las ramas deben empezar por feature/nombre_tipo_animal.
 - Abrir el proyecto en Visual Studio Code
 - Abrir una nueva terminal usando la combinación de teclas:
   `CTRL + Ñ`
