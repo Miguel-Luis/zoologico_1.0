@@ -18,8 +18,8 @@ El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de
   ```
   git clone `https://github.com/usuario/repositorio.git`
   ```
-
-
+  
+![GitBash](https://github.com/Miguel-Luis/zoologico_1.0/assets/34074599/cc21e12f-76fb-4737-8df6-3db253c89627)
 
 ### Paso 3 Crear una nueva rama donde cada pareja va a trabajar:
 - Hacer clic en el botón **Branches**
@@ -36,6 +36,8 @@ El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de
   ```
   git fetch && git checkout `feature/nombre_tipo_animal`
   ```
+
+  ![Ramas](https://github.com/Miguel-Luis/zoologico_1.0/assets/34074599/316d5227-cf75-4df8-a873-b80188fd2bac)
 
 ## Descripción de Archivos
 
