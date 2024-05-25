@@ -3,8 +3,41 @@
 
 El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de un zoológico utilizando los principios de la programación orientada a objetos **(POO)** en Python. Este ejercicio los ayudara a comprender cómo crear clases, herencia y la interacción entre múltiples objetos. Además les permitira practicar un flujo de trabajo en GitHub con un equipo de desarrollo.
 
-## Descripción de Archivos
+## Descargar Proyecto
+### Paso 1 Obtener la URL del Repositorio:
+- Ir al repositorio que quieres clonar en GitHub.
+- Hacer clic en el botón verde que dice **"Code"**
+- Copiar la URL del repositorio (por ejemplo, https://github.com/usuario/repositorio.git).
 ![Clonar](https://github.com/Miguel-Luis/zoologico_1.0/assets/34074599/797d3d4c-e01c-427b-bd43-29c4db9f7b47)
+
+### Paso 2 Clonar el repositorio usando la URL copiada:
+- Ubicar un lugar en el computador donde se quiera clonar el proyecto.
+- Abrir una nueva consola de git bash.
+- Copiar en la terminal:
+
+  ```
+  git clone `https://github.com/usuario/repositorio.git`
+  ```
+
+
+
+### Paso 3 Crear una nueva rama donde cada pareja va a trabajar:
+- Hacer clic en el botón **Branches**
+- Hacer clic en el botón **New branch**
+- En **Source** seleccionar la rama **develop**
+- Para el nombre de la rama tener en cuenta lo siguiente:
+    > [!WARNING]
+    > Todas los nombres de las ramas deben empezar por `feature/nombre_tipo_animal`.
+- Abrir el proyecto en Visual Studio Code
+- Abrir una nueva terminal usando la combinación de teclas:
+  `CTRL + Ñ`
+- Copiar en la terminal de Visual Studio Code:
+  
+  ```
+  git fetch && git checkout `feature/nombre_tipo_animal`
+  ```
+
+## Descripción de Archivos
 
 ### `zoologico_1.0/`
 
