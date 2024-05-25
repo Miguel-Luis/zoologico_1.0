@@ -49,12 +49,12 @@ El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de
 
 ### `zoologico_1.0/animales/`
 - **`animal.py`**: El objetivo de esta clase es proporcionar una estructura básica para representar un animal con algunos atributos esenciales como nombre, edad, y habitat, y permitir que esta información se pueda mostrar fácilmente.
-- **`mamifero.py`**: Clase que representa un mamifero.
-- **`ave.py`**: Clase que representa una ave.
-- **`reptil.py`**: Clase que representa un reptil.
-- **`anfibio.py`**: Clase que representa un anfibio.
-- **`pez.py`**: Clase que representa un pez.
-- **`insecto.py`**: Clase que representa un insecto.
+- **`mamifero.py`**: Clase que representa un mamifero. (Grupo 1)
+- **`ave.py`**: Clase que representa una ave. (Grupo 4)
+- **`reptil.py`**: Clase que representa un reptil. (Grupo 3)
+- **`anfibio.py`**: Clase que representa un anfibio. (Grupo 6)
+- **`pez.py`**: Clase que representa un pez. (Grupo 2)
+- **`insecto.py`**: Clase que representa un insecto. (Grupo 5)
 
 
 ## Instrucciones para el Desarrollo de la Lógica de Animales en el Zoológico
