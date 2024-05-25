@@ -4,6 +4,7 @@
 El objetivo de este proyecto es diseñar y desarrollar un sistema de gestión de un zoológico utilizando los principios de la programación orientada a objetos **(POO)** en Python. Este ejercicio los ayudara a comprender cómo crear clases, herencia y la interacción entre múltiples objetos. Además les permitira practicar un flujo de trabajo en GitHub con un equipo de desarrollo.
 
 ## Descripción de Archivos
+![Clonar](https://github.com/Miguel-Luis/zoologico_1.0/assets/34074599/797d3d4c-e01c-427b-bd43-29c4db9f7b47)
 
 ### `zoologico_1.0/`
 
